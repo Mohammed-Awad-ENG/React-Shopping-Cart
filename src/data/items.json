@@ -1,0 +1,352 @@
+[
+    {
+        "id": 1,
+        "name": "banana",
+        "price": 79.99,
+        "quantity": 15,
+        "imageUrl": "../../imgs/banana.jpg"
+    },
+    {
+        "id": 2,
+        "name": "the book",
+        "price": 12.99,
+        "quantity": 50,
+        "imageUrl": "../../imgs/book.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Phone Case",
+        "price": 24.99,
+        "quantity": 30,
+        "imageUrl": "../../imgs/phone-case"
+    },
+    {
+        "id": 4,
+        "name": "Screen Protector",
+        "price": 9.99,
+        "quantity": 45,
+        "imageUrl": "../../imgs/screen-protector"
+    },
+    {
+        "id": 5,
+        "name": "Power Bank",
+        "price": 35.99,
+        "quantity": 20,
+        "imageUrl": "../../imgs/power-bank"
+    },
+    {
+        "id": 6,
+        "name": "Portable Speaker",
+        "price": 49.99,
+        "quantity": 12,
+        "imageUrl": "../../imgs/portable-speaker"
+    },
+    {
+        "id": 7,
+        "name": "Laptop Stand",
+        "price": 29.99,
+        "quantity": 18,
+        "imageUrl": "../../imgs/laptop-stand"
+    },
+    {
+        "id": 8,
+        "name": "Mechanical Keyboard",
+        "price": 89.99,
+        "quantity": 10,
+        "imageUrl": "../../imgs/mechanical-keyboard"
+    },
+    {
+        "id": 9,
+        "name": "Wireless Mouse",
+        "price": 34.99,
+        "quantity": 22,
+        "imageUrl": "../../imgs/wireless-mouse"
+    },
+    {
+        "id": 10,
+        "name": "USB Hub",
+        "price": 19.99,
+        "quantity": 28,
+        "imageUrl": "../../imgs/usb-hub"
+    },
+    {
+        "id": 11,
+        "name": "Monitor Light Bar",
+        "price": 59.99,
+        "quantity": 8,
+        "imageUrl": "../../imgs/monitor-light-bar"
+    },
+    {
+        "id": 12,
+        "name": "Desk Lamp",
+        "price": 44.99,
+        "quantity": 14,
+        "imageUrl": "../../imgs/desk-lamp"
+    },
+    {
+        "id": 13,
+        "name": "Webcam",
+        "price": 69.99,
+        "quantity": 11,
+        "imageUrl": "../../imgs/webcam"
+    },
+    {
+        "id": 14,
+        "name": "Microphone",
+        "price": 99.99,
+        "quantity": 7,
+        "imageUrl": "../../imgs/microphone"
+    },
+    {
+        "id": 15,
+        "name": "HDMI Cable",
+        "price": 14.99,
+        "quantity": 35,
+        "imageUrl": "../../imgs/hdmi-cable"
+    },
+    {
+        "id": 16,
+        "name": "Ethernet Cable",
+        "price": 11.99,
+        "quantity": 40,
+        "imageUrl": "../../imgs/ethernet-cable"
+    },
+    {
+        "id": 17,
+        "name": "Cooling Pad",
+        "price": 39.99,
+        "quantity": 13,
+        "imageUrl": "../../imgs/cooling-pad"
+    },
+    {
+        "id": 18,
+        "name": "External Hard Drive",
+        "price": 89.99,
+        "quantity": 9,
+        "imageUrl": "../../imgs/external-hard-drive"
+    },
+    {
+        "id": 19,
+        "name": "SSD Storage",
+        "price": 119.99,
+        "quantity": 6,
+        "imageUrl": "../../imgs/ssd-storage"
+    },
+    {
+        "id": 20,
+        "name": "Card Reader",
+        "price": 16.99,
+        "quantity": 32,
+        "imageUrl": "../../imgs/card-reader"
+    },
+    {
+        "id": 21,
+        "name": "USB Flash Drive",
+        "price": 19.99,
+        "quantity": 38,
+        "imageUrl": "../../imgs/usb-flash-drive"
+    },
+    {
+        "id": 22,
+        "name": "Wireless Charger",
+        "price": 25.99,
+        "quantity": 24,
+        "imageUrl": "../../imgs/wireless-charger"
+    },
+    {
+        "id": 23,
+        "name": "Phone Mount",
+        "price": 14.99,
+        "quantity": 42,
+        "imageUrl": "../../imgs/phone-mount"
+    },
+    {
+        "id": 24,
+        "name": "Tablet Stand",
+        "price": 22.99,
+        "quantity": 26,
+        "imageUrl": "../../imgs/tablet-stand"
+    },
+    {
+        "id": 25,
+        "name": "Cable Organizer",
+        "price": 9.99,
+        "quantity": 48,
+        "imageUrl": "../../imgs/cable-organizer"
+    },
+    {
+        "id": 26,
+        "name": "Desk Organizer",
+        "price": 17.99,
+        "quantity": 31,
+        "imageUrl": "../../imgs/desk-organizer"
+    },
+    {
+        "id": 27,
+        "name": "Monitor Arm",
+        "price": 79.99,
+        "quantity": 5,
+        "imageUrl": "../../imgs/monitor-arm"
+    },
+    {
+        "id": 28,
+        "name": "Keyboard Wrist Rest",
+        "price": 19.99,
+        "quantity": 29,
+        "imageUrl": "../../imgs/keyboard-wrist-rest"
+    },
+    {
+        "id": 29,
+        "name": "Mouse Pad",
+        "price": 14.99,
+        "quantity": 37,
+        "imageUrl": "../../imgs/mouse-pad"
+    },
+    {
+        "id": 30,
+        "name": "Gaming Headset",
+        "price": 129.99,
+        "quantity": 4,
+        "imageUrl": "../../imgs/gaming-headset"
+    },
+    {
+        "id": 31,
+        "name": "Earbuds",
+        "price": 49.99,
+        "quantity": 19,
+        "imageUrl": "../../imgs/earbuds"
+    },
+    {
+        "id": 32,
+        "name": "Aux Cable",
+        "price": 7.99,
+        "quantity": 52,
+        "imageUrl": "../../imgs/aux-cable"
+    },
+    {
+        "id": 33,
+        "name": "Surge Protector",
+        "price": 24.99,
+        "quantity": 25,
+        "imageUrl": "../../imgs/surge-protector"
+    },
+    {
+        "id": 34,
+        "name": "Desk Chair Mat",
+        "price": 34.99,
+        "quantity": 10,
+        "imageUrl": "../../imgs/desk-chair-mat"
+    },
+    {
+        "id": 35,
+        "name": "Monitor Stand",
+        "price": 44.99,
+        "quantity": 11,
+        "imageUrl": "../../imgs/monitor-stand"
+    },
+    {
+        "id": 36,
+        "name": "Desk Pad",
+        "price": 29.99,
+        "quantity": 16,
+        "imageUrl": "../../imgs/desk-pad"
+    },
+    {
+        "id": 37,
+        "name": "Laptop Case",
+        "price": 39.99,
+        "quantity": 12,
+        "imageUrl": "../../imgs/laptop-case"
+    },
+    {
+        "id": 38,
+        "name": "Document Holder",
+        "price": 12.99,
+        "quantity": 34,
+        "imageUrl": "../../imgs/document-holder"
+    },
+    {
+        "id": 39,
+        "name": "Desk Shelf",
+        "price": 49.99,
+        "quantity": 8,
+        "imageUrl": "../../imgs/desk-shelf"
+    },
+    {
+        "id": 40,
+        "name": "File Cabinet",
+        "price": 69.99,
+        "quantity": 3,
+        "imageUrl": "../../imgs/file-cabinet"
+    },
+    {
+        "id": 41,
+        "name": "Bookshelf",
+        "price": 99.99,
+        "quantity": 2,
+        "imageUrl": "../../imgs/bookshelf"
+    },
+    {
+        "id": 42,
+        "name": "Desk",
+        "price": 249.99,
+        "quantity": 1,
+        "imageUrl": "../../imgs/desk"
+    },
+    {
+        "id": 43,
+        "name": "Office Chair",
+        "price": 199.99,
+        "quantity": 2,
+        "imageUrl": "../../imgs/office-chair"
+    },
+    {
+        "id": 44,
+        "name": "Monitor",
+        "price": 349.99,
+        "quantity": 3,
+        "imageUrl": "../../imgs/monitor"
+    },
+    {
+        "id": 45,
+        "name": "Keyboard",
+        "price": 59.99,
+        "quantity": 6,
+        "imageUrl": "../../imgs/keyboard"
+    },
+    {
+        "id": 46,
+        "name": "Mouse",
+        "price": 29.99,
+        "quantity": 15,
+        "imageUrl": "../../imgs/mouse"
+    },
+    {
+        "id": 47,
+        "name": "Monitor Clip Lamp",
+        "price": 34.99,
+        "quantity": 9,
+        "imageUrl": "../../imgs/monitor-clip-lamp"
+    },
+    {
+        "id": 48,
+        "name": "RGB LED Strip",
+        "price": 24.99,
+        "quantity": 17,
+        "imageUrl": "../../imgs/rgb-led-strip"
+    },
+    {
+        "id": 49,
+        "name": "Desk Fan",
+        "price": 19.99,
+        "quantity": 21,
+        "imageUrl": "../../imgs/desk-fan"
+    },
+    {
+        "id": 50,
+        "name": "Portable Charger",
+        "price": 44.99,
+        "quantity": 13,
+        "imageUrl": "../../imgs/portable-charger"
+    }
+]
