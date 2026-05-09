@@ -208,7 +208,6 @@ export default function Home() {
 
             <div className="countdown-bar">
                 <span className="countdown-label">
-                    {window.r}
                     THIS DEAL EXPIRES IN (Don't Reload This Page):
                 </span>
                 <div className="countdown-digits">
