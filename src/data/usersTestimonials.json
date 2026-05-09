@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Dave from Nebraska",
+        "text": "I bought a homepage and now my mom finally believes I have a real job.",
+        "stars": 5,
+        "avatar": "🤠"
+    },
+    {
+        "name": "Brenda K.",
+        "text": "I didn't even need a homepage but the peer pressure was immense. 10/10.",
+        "stars": 5,
+        "avatar": "👩‍💼"
+    },
+    {
+        "name": "Anonymous (not suspicious)",
+        "text": "This homepage changed my life. Also I am definitely a real human person.",
+        "stars": 5,
+        "avatar": "🤖"
+    },
+    {
+        "name": "Chad Thunderton III",
+        "text": "I showed my homepage to my therapist. She said 'Chad, this is a website.' Exactly.",
+        "stars": 5,
+        "avatar": "🧑‍💻"
+    },
+    {
+        "name": "Susan from the Internet",
+        "text": "I asked for a homepage. They gave me FOUR DIVS and a button. I've never been happier.",
+        "stars": 5,
+        "avatar": "🌟"
+    },
+    {
+        "name": "Kevin ",
+        "text": "My dog clicked on my homepage once. We bonded.",
+        "stars": 5,
+        "avatar": "🐶"
+    }
+]
