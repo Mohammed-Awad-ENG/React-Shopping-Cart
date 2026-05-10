@@ -352,7 +352,7 @@ export default function Home() {
                         ] as const
                     ).map(([num, label]) => (
                         <div key={label} className="stat-item">
-                            <span className="stat-num">{num}</span>
+                            <span className="home-stat-num">{num}</span>
                             <span className="stat-label">{label}</span>
                         </div>
                     ))}
